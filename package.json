@@ -1,0 +1,16 @@
+{
+  "name": "flock",
+  "version": "1.0.0",
+  "description": "Flock builds collective intelligence on-chain",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev": "node backend/server.js",
+    "test": "echo \"No tests yet\"",
+    "build": "echo \"Build step\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}
